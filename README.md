@@ -1,3 +1,3 @@
 # Bayesian-Network
 
-Implemented variable elimination to calculate probabilities and also calculated the expected utilities for the given queries and Bayesian network.
+Implemented variable elimination to calculate probabilities and a decision-theoretic agent that calculates the expected utilities and selects rational actions for the given queries and Bayesian network.
