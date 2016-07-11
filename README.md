@@ -1,2 +1,3 @@
 # Bayesian-Network
-Calculate probabilities and expected utilities for given queries.
+
+Implemented variable elimination to calculate probabilities and also calculated the expected utilities for given queries to a given Bayesian network.
